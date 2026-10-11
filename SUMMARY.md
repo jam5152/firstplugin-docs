@@ -13,6 +13,7 @@
 
 * [📖 능력 도감](abilities/README.md)
   * [🕷️ 거미여왕](abilities/arachne.md)
+  * [🛢️ 고블린통](abilities/goblin-barrel.md)
   * [🚩 공산주의](abilities/communism.md)
   * [🪢 길동무](abilities/companion.md)
   * [🗡️ 다모클레스의 칼](abilities/damocles.md)
@@ -36,6 +37,7 @@
   * [⚾ 야구선수(투수)](abilities/pitcher.md)
   * [🌑 어두운섬광](abilities/dark-flash.md)
   * [🔮 예언자](abilities/prophet.md)
+  * [⚡ 일렉트릭 마법사](abilities/electric-mage.md)
   * [💥 자가폭발](abilities/self-destruct.md)
   * [🧲 자석 인간](abilities/magnetism.md)
   * [📈 자수성가](abilities/self-made.md)
