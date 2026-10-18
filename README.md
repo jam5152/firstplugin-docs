@@ -7,7 +7,7 @@
 
 | 문서 | 내용 |
 |---|---|
-| 🎮 [게임 진행 방법](guide/how-to-play.md) | 게임이 시작되고 끝나기까지의 흐름 |
+| 🎮 [게임 진행 방법](guide/how-to-play.md) | 게임이 시작되고 끝나기까지의 흐름과 전투 규칙 |
 | 💬 [명령어 가이드](guide/commands.md) | 모든 명령어와 사용법 |
 | ⚙️ [게임 설정 가이드](guide/settings.md) | `/game 설정`의 각 항목이 하는 일 |
 | 🧬 [특성 안내](guide/traits.md) | 특성 시스템과 특성별 효과 |
