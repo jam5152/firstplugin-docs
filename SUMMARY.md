@@ -40,6 +40,7 @@
   * [⚾ 야구선수(투수)](abilities/pitcher.md)
   * [🌑 어두운섬광](abilities/dark-flash.md)
   * [🧊 얼음 궁수](abilities/ice-archer.md)
+  * [🦠 역병의사](abilities/plague-doctor.md)
   * [🔮 예언자](abilities/prophet.md)
   * [☄️ 유성술사](abilities/meteor-mage.md)
   * [⚡ 일렉트릭 마법사](abilities/electric-mage.md)
